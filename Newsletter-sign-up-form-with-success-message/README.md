@@ -12,7 +12,7 @@ Thanks for checking out this front-end coding challenge.
 
 ## Demo
 
-[Newsletter](newsletter-success-message.vercel.app)
+[Newsletter](https://newsletter-success-message.vercel.app/)
 
 ## The challenge
 
